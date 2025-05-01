@@ -1,5 +1,5 @@
 ## Welcome 👋
-Мень зовут Анастасия, я QA Engineer 
+Мень зовут Анастасия, я QA Engineer <img src="https://usagif.com/wp-content/uploads/cat-typing-8.gif.webp" width="30"></h2>
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Nesti000)
@@ -12,6 +12,7 @@
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
+## Music that you can listen to while studying my portfolio
 <br>
 <details><summary>🎵 Включить музыку</summary>
 <video src="https://user-images.githubusercontent.com/86494748/185793713-45eabbc9-c26f-4216-acc2-3f189d5eeee8.mov"><video>
