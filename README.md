@@ -1,5 +1,6 @@
 ## Welcome 👋
-Мень зовут Анастасия, я QA Engineer <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif.webp" width="80"></h2>
+Мень зовут Анастасия, я QA Engineer 
+<img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif.webp" width="100"></h2>
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Nesti000)
