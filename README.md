@@ -13,6 +13,9 @@
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
+<details><summary>🎵 Включить музыку</summary>
+<video src="https://user-images.githubusercontent.com/86494748/185793713-45eabbc9-c26f-4216-acc2-3f189d5eeee8.mov"><video>
+</details>
 
 ## Тестирование API и интеграций
 <div>
@@ -73,7 +76,7 @@
 
 
 ## 🎒 Образование
-*Скоро тут появятся мои сертификаты*
+*My certificates will be here soon*
 
 <br>
 <br>
