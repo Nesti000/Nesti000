@@ -80,7 +80,7 @@
 
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Certificate">](https://raw.githubusercontent.com/Nesti000/Nesti000/refs/heads/main/Certificate.png)
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Certificate»">](https://raw.githubusercontent.com/Nesti000/Nesti000/refs/heads/main/Certificate.png)
 
 <br>
 <br>
